@@ -1,0 +1,58 @@
+export const districts = [
+  {
+    name: "Dhaka",
+    bnName: "ঢাকা",
+    lat: 23.8103,
+    lng: 90.4125,
+    division: "Dhaka",
+  },
+  {
+    name: "Chattogram",
+    bnName: "চট্টগ্রাম",
+    lat: 22.3569,
+    lng: 91.7832,
+    division: "Chattogram",
+  },
+  {
+    name: "Sylhet",
+    bnName: "সিলেট",
+    lat: 24.8949,
+    lng: 91.8687,
+    division: "Sylhet",
+  },
+  {
+    name: "Rajshahi",
+    bnName: "রাজশাহী",
+    lat: 24.3745,
+    lng: 88.6042,
+    division: "Rajshahi",
+  },
+  {
+    name: "Khulna",
+    bnName: "খুলনা",
+    lat: 22.8456,
+    lng: 89.5403,
+    division: "Khulna",
+  },
+  {
+    name: "Barishal",
+    bnName: "বরিশাল",
+    lat: 22.701,
+    lng: 90.3535,
+    division: "Barishal",
+  },
+  {
+    name: "Rangpur",
+    bnName: "রংপুর",
+    lat: 25.7439,
+    lng: 89.2752,
+    division: "Rangpur",
+  },
+  {
+    name: "Mymensingh",
+    bnName: "ময়মনসিংহ",
+    lat: 24.7471,
+    lng: 90.4203,
+    division: "Mymensingh",
+  },
+];
